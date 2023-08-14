@@ -10,13 +10,13 @@
 
 <p align="center"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300"  /></p>
 
-### :man_technologist: &nbsp;About Me :
+### :man_technologist: &nbsp;About me in a nutshell :
 
 I am a Backend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I’m working as a Software Engineer using Java and Spring boot for for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on leetcode and read tech articles.
+- 🔭 I’m working as a Software Engineer using Java and Spring boot for building web applications.
+- 🌱 I love to meet people, explore tech, discuss about scalable systems :star_struck:
+- ⚡ In my free time I write blogs or record youtube videos and delete them again :laughing:
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heykalyan)
 
 ---
