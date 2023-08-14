@@ -1,3 +1,4 @@
+## Hey there 👋, I'm [Kalyan!](https://youtube.com/@heykalyan) and welcome to my space :)
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
@@ -5,19 +6,16 @@
 <a href="https://www.youtube.com/@heykalyan"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kalyan183&style=flat-square&color=blue" alt=""></p>
-
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
-<p align="center"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300"  /></p>
-
+  
 ### :man_technologist: &nbsp;About me in a nutshell :
 
 I am a Backend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 🔭 I’m working as a Software Engineer using Java and Spring boot for building web applications.
-- 🌱 I love to meet people, explore tech, discuss about scalable systems :star_struck:
+- 🌱 I love to meet people, explore tech, and discuss scalable systems :star_struck:
 - ⚡ In my free time I write blogs or record youtube videos and delete them again :laughing:
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heykalyan)
+- 💻 &nbsp; I love to explore new tech and build cool stuff with it.
+- 📫 &nbsp; Reach out to me via [LinkedIn](https://www.linkedin.com/in/heykalyan/) or heykaalyaan@gmail.com.
 
 ---
 
@@ -44,3 +42,11 @@ I am a Backend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - [Prometheus Monitoring Using Spring Boot](https://logbook.hashnode.dev/prometheus-monitoring-using-spring-boot)
 - [Mongo-TLS Implementation](https://logbook.hashnode.dev/mongo-tls-implementation)
 <!-- BLOG-POST-LIST:END -->
+
+
+
+<div align="center">
+
+### Let's become friends on [Twitter](https://twitter.com/_nakorebaba)!
+
+</div>
